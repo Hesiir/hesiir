@@ -97,13 +97,18 @@
     "graphql": "^0.6.0",
     "hesiir-components": "^0.1.5",
     "history": "^3.0.0",
+    "immutable": "^3.8.1",
     "promise-polyfill": "^6.0.2",
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
+    "react-redux": "^4.4.6",
     "react-relay": "^0.9.3",
     "react-router": "latest",
+    "react-router-redux": "^4.0.7",
     "react-router-relay": "^0.13.5",
     "react-swipeable-views": "^0.7.0",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.1.0",
     "whatwg-fetch": "^1.0.0"
   }
 }
