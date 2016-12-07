@@ -1,0 +1,26 @@
+.listGrid{
+  box-sizing: border-box;
+
+  .inner{
+    display: flex;
+    width: 100%;
+    justify-content: space-around
+
+    .list{
+      flex: 1;
+      min-width: 0;
+      p{
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+    }
+  }
+  footer{
+    text-align: center;
+    a{
+      display: block;
+      text-decoration: none;
+    }
+  }
+}

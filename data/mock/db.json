@@ -1,0 +1,29 @@
+{
+  "goods": [
+    {
+      "id": 996,
+      "code": 0,
+      "result": {
+        "goods_id": "996",
+        "img": "http://img2.4009515151.com/2016/10/22/hvd81g6wo395o6kn.jpg",
+        "min_price": "99.00",
+        "name": " 超能洗涤用品套组一",
+        "sunhine_price": "8.75",
+        "sunshine_community": true,
+        "title": "买四送二  送水润丝滑洗发露、纳爱斯牙膏",
+        "end_time" : "",
+        "limit_buy" : false
+      }
+    },
+    {
+      "id": 995,
+      "code": 0,
+      "result": null
+    },
+    {
+      "id": 997,
+      "code": 0,
+      "result": "not exist!"
+    }
+  ]
+}

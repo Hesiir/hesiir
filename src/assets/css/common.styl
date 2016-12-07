@@ -1,0 +1,26 @@
+@import '../../../node_modules/normalize.css/normalize.css';
+@import 'styleguide';
+
+body{
+  font-size: $normalFont;
+  user-select: none; 
+  font-family: "Myriad Set Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: $defaultFontColor;
+  outline: none;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-text-size-adjust: none;
+}
+a{
+  outline: none;
+  color: $defaultFontColor;
+}
+:global(.ellipsisTitle){
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+:global(.ellipsis){
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

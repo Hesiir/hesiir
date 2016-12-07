@@ -1,0 +1,18 @@
+{
+  "app": {
+  },
+  "compile": {
+    "image": {}
+  },
+  "env": {
+    "deploy": {
+      "graphql": "http://api.4009515151.com/graphql"
+    },
+    "test": {
+      "graphql": "http://api.4009515151.com/graphql/test"
+    },
+    "local": {
+      "graphql": "http://dev.local:8089/graphql"
+    }
+  }
+}
